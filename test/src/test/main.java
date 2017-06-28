@@ -11,7 +11,7 @@ public class main {
 	}
 	
 	public void method1(){
-		System.out.println("메소드1 입니다.");
+		System.out.println("메소드수정함");
 	}
 
 }
