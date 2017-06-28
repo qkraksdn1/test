@@ -6,6 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("World");
 		System.out.println("Hello");
+		System.out.println("또하나의 버전");
 	}
 
 }
