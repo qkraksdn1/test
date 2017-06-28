@@ -13,5 +13,9 @@ public class main {
 	public void method1(){
 		System.out.println("메소드수정함");
 	}
+	
+	public void method2(){
+		System.out.println("메소드2생성 made by test3");
+	}
 
 }
