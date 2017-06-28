@@ -16,6 +16,7 @@ public class main {
 	
 	public void method2(){
 		System.out.println("五社球2持失 made by test3");
+		System.out.println("五社球2 持失 made by test");
 	}
 
 }
