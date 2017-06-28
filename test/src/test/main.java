@@ -8,5 +8,9 @@ public class main {
 		System.out.println("Hello");
 		System.out.println("또하나의 버전");
 	}
+	
+	public void method1(){
+		System.out.println("메소드1 입니다.");
+	}
 
 }
